@@ -76,7 +76,7 @@ Command line application that lets the user buy items from an Amazon-like storef
 ![Add to inventory](images/add_to_inventory.png)
 
 
-###Add new product
+### Add new product
 
 ![Add new product](images/add_new_product.png)
 
