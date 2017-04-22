@@ -55,26 +55,31 @@ Command line application that lets the user buy items from an Amazon-like storef
 
 ![Buying items as a customer](images/buy_item.png)
 
+---
 
 ### Buying item with insufficient stock
 
 ![Buying item with insufficient stock](images/insufficient_stock.png)
 
+---
 
 ### Viewing products
 
 ![Viewing products](images/view_products.png)
 
+---
 
 ### Viewing low inventory
 
 ![Viewing low inventory](images/low_inventory.png)
 
+---
 
 ### Add to inventory
 
 ![Add to inventory](images/add_to_inventory.png)
 
+---
 
 ### Add new product
 
