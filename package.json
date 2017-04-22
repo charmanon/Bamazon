@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharloteean/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "products",
+    "sell",
+    "buy"
+  ],
+  "author": "Charlotte Anongos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharloteean/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sharloteean/Bamazon#readme"
+}
